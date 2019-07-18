@@ -55,7 +55,7 @@ section {
   box-shadow: inset 0px 1px 0px #d8cef9, 0px 3px 0px 0px #6d47e7, 0px 8px 20px -5px rgba(109, 71, 231, 0.7);
 }
 
-/*.cb__label .cb__bg {
+.cb__label .cb__bg {
   width: 100%;
   height: 100%;
   border-radius: 5px;
@@ -65,7 +65,7 @@ section {
   box-shadow: inset 0px 1px 0px #d8cef9, 0px 5px 0px 0px #4b1dde, 0px 15px 20px -5px rgba(109, 71, 231, 0.7);
 }
 
-
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
