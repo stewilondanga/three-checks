@@ -26,13 +26,11 @@ body {
   height: 1.5em;
 }
 
-/*
-
 section {
   display: flex;
 }
 
-.cb__label {
+/*.cb__label {
   width: 56px;
   height: 56px;
   display: inline-block;
