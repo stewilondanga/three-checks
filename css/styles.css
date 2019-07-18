@@ -65,13 +65,12 @@ section {
   box-shadow: inset 0px 1px 0px #d8cef9, 0px 5px 0px 0px #4b1dde, 0px 15px 20px -5px rgba(109, 71, 231, 0.7);
 }
 
-/*
 .containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
